@@ -11,7 +11,7 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 - Laravel Eloquent ORM
 - RESTful API & Laravel API Resources
 - Database Migration & Seeder
-
+- MySQL (Cơ sở dữ liệu chính)
 ### Frontend:
 - Vue.js 3 + Composition API
 - Pinia (state management)
