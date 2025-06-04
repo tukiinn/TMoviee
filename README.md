@@ -1,4 +1,4 @@
-# 🎥 Movie Streaming Website
+# 🎥 Moviee - Ứng dụng xem phim trực tuyến
 
 Một nền tảng xem phim trực tuyến hiện đại được xây dựng với **Laravel 12** (backend) và **Vue 3** (frontend), tích hợp đầy đủ các tính năng như xem phim, đánh giá, danh sách yêu thích, thanh toán online và hệ thống quản trị mạnh mẽ.
 
