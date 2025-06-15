@@ -47,26 +47,31 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 - Biểu đồ tương tác và báo cáo
 ## 📸 Giao diện hệ thống
 
+---
+
 ### 👤 Người dùng (User)
 
 <table>
   <tr>
-    <td align="center">Home</td>
-    <td align="center">Home</td>
+    <td align="center"><strong>Trang chủ</strong></td>
+    <td align="center"><strong>Chi tiết sản phẩm</strong></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/0b9be998-7d09-4cf9-b393-4f0b6406336f" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207" width="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0b9be998-7d09-4cf9-b393-4f0b6406336f" width="450"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><strong>Trang xem phim</strong></td>
+    <td align="center"><strong>Trang tài khoản</strong></td>
+    <td align="center"><strong>Gói Member Vip</strong></td>
   </tr>
   <tr>
-    <td align="center">Trang xem phim</td>
-    <td align="center">Trang tài khoản</td>
-    <td align="center">Gói Member Vip</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/8b6398ce-c7c6-454a-854f-a6749497af3f" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/25c8923f-dcd4-4504-b715-cd6cb5d24a8b" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cdbcfae5-5e36-4943-90ff-6d58dccee9f9" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/8b6398ce-c7c6-454a-854f-a6749497af3f" width="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/25c8923f-dcd4-4504-b715-cd6cb5d24a8b" width="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cdbcfae5-5e36-4943-90ff-6d58dccee9f9" width="450"/></td>
   </tr>
 </table>
 
@@ -76,10 +81,17 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 
 <table>
   <tr>
-    <td align="center">Dashboard</td>
-    <td align="center">Biểu đồ thống kê</td>
-    <td align="center">Quản lý phim</td>
+    <td align="center"><strong>Dashboard</strong></td>
+    <td align="center"><strong>Biểu đồ thống kê</strong></td>
+    <td align="center"><strong>Quản lý phim</strong></td>
   </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d8e299bb-db63-4a5e-ad94-46584ab31d1d" width="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d0ecb411-a255-4924-a607-2d4b1bbe6541" width="450"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cddb0993-8ab0-4f5d-915e-7064b8b3afd5" width="450"/></td>
+  </tr>
+</table>
+
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d8e299bb-db63-4a5e-ad94-46584ab31d1d" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/d0ecb411-a255-4924-a607-2d4b1bbe6541" width="300"/></td>
