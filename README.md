@@ -53,8 +53,8 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 
 <table>
   <tr>
-    <td align="center"><strong>Trang chủ</strong></td>
-    <td align="center"><strong>Chi tiết sản phẩm</strong></td>
+    <td align="center"><strong>Home</strong></td>
+    <td align="center"><strong>Home</strong></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207" width="450"/></td>
@@ -92,9 +92,4 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
   </tr>
 </table>
 
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/d8e299bb-db63-4a5e-ad94-46584ab31d1d" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d0ecb411-a255-4924-a607-2d4b1bbe6541" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/cddb0993-8ab0-4f5d-915e-7064b8b3afd5" width="300"/></td>
-  </tr>
 </table>
