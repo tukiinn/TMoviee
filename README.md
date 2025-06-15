@@ -52,10 +52,10 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 ### 👤 Người dùng (User)
 
 <table>
-  <tr>
-    <td align="center"><strong>Home</strong></td>
-    <td align="center"><strong>Home</strong></td>
-  </tr>
+<tr>
+  <td align="center" colspan="2"><strong>Home</strong></td>
+</tr>
+
   <tr>
     <td><img src="https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207" width="450"/></td>
     <td><img src="https://github.com/user-attachments/assets/0b9be998-7d09-4cf9-b393-4f0b6406336f" width="450"/></td>
