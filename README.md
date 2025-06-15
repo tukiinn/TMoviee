@@ -47,6 +47,22 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 - Biểu đồ tương tác và báo cáo
 ## 📷 Screenshot
 
+![Image](https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207)
+
+![Image](https://github.com/user-attachments/assets/0b9be998-7d09-4cf9-b393-4f0b6406336f)
+
+![Image](https://github.com/user-attachments/assets/8b6398ce-c7c6-454a-854f-a6749497af3f)
+
+![Image](https://github.com/user-attachments/assets/25c8923f-dcd4-4504-b715-cd6cb5d24a8b)
+
+![Image](https://github.com/user-attachments/assets/cdbcfae5-5e36-4943-90ff-6d58dccee9f9)
+
+![Image](https://github.com/user-attachments/assets/d8e299bb-db63-4a5e-ad94-46584ab31d1d)
+
+![Image](https://github.com/user-attachments/assets/d0ecb411-a255-4924-a607-2d4b1bbe6541)
+
+![Image](https://github.com/user-attachments/assets/cddb0993-8ab0-4f5d-915e-7064b8b3afd5)
+
 
 
 ---
