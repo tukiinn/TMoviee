@@ -47,22 +47,25 @@ Một nền tảng xem phim trực tuyến hiện đại được xây dựng v�
 - Biểu đồ tương tác và báo cáo
 ## 📷 Screenshot
 
-![Image](https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207)
+## 📸 Giao diện hệ thống
 
-![Image](https://github.com/user-attachments/assets/0b9be998-7d09-4cf9-b393-4f0b6406336f)
+### 👤 Người dùng (User)
 
-![Image](https://github.com/user-attachments/assets/8b6398ce-c7c6-454a-854f-a6749497af3f)
+| Trang chủ |
+|----------|-------------------|
+| ![Trang chủ](https://github.com/user-attachments/assets/def1eaea-31f1-4e76-91e4-f819cf176207) | ![Chi tiết sản phẩm](https://github.com/user-attachments/assets/0b9be998-7d09-4cf9-b393-4f0b6406336f) |
 
-![Image](https://github.com/user-attachments/assets/25c8923f-dcd4-4504-b715-cd6cb5d24a8b)
+| Trang xem phim | Trang tài khoản | Gói Member Vip |
+|----------|------------|------------------|
+| ![Giỏ hàng](https://github.com/user-attachments/assets/8b6398ce-c7c6-454a-854f-a6749497af3f) | ![Thanh toán](https://github.com/user-attachments/assets/25c8923f-dcd4-4504-b715-cd6cb5d24a8b) | ![Đơn hàng của tôi](https://github.com/user-attachments/assets/cdbcfae5-5e36-4943-90ff-6d58dccee9f9) |
 
-![Image](https://github.com/user-attachments/assets/cdbcfae5-5e36-4943-90ff-6d58dccee9f9)
+---
 
-![Image](https://github.com/user-attachments/assets/d8e299bb-db63-4a5e-ad94-46584ab31d1d)
+### 🛠️ Quản trị viên (Admin)
 
-![Image](https://github.com/user-attachments/assets/d0ecb411-a255-4924-a607-2d4b1bbe6541)
-
-![Image](https://github.com/user-attachments/assets/cddb0993-8ab0-4f5d-915e-7064b8b3afd5)
-
+| Dashboard | Biểu đồ thống kê | Quản lý phim |
+|---------|------------------|------------------|
+| ![Thống kê](https://github.com/user-attachments/assets/d8e299bb-db63-4a5e-ad94-46584ab31d1d) | ![Quản lý đơn hàng](https://github.com/user-attachments/assets/d0ecb411-a255-4924-a607-2d4b1bbe6541) | ![Quản lý sản phẩm](https://github.com/user-attachments/assets/cddb0993-8ab0-4f5d-915e-7064b8b3afd5) |
 
 
 ---
